@@ -1,6 +1,6 @@
 <p align='center'>
 
-  [![](https://github-readme-stats.vercel.app/api?username=MaxtheN&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![](https://github-readme-stats.vercel.app/api?username=MaxtheN&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
